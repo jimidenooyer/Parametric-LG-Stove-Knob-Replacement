@@ -21,12 +21,12 @@ block_height = 22.5; // Total depth including the ledge
 flange_width = 44;   // Total tip-to-tip width across both ears
 flange_thick = 2;    // Ledge thickness
 screw_spacing = 32;  // Center-to-center distance of screw holes
-screw_dia = 6;       // Diameter of the screw holes
+screw_dia = 6.2;       // Diameter of the screw holes
 post_clearance_dia = 9; // Diameter of the screw post clearance
 
 // --- Extended Column ---
-col_dia = 9.5;       // MUST clear the hole in the metal backplate
-col_reach = 10;      // Extension distance to reach the stove peg
+col_dia = 11.75;       // MUST clear the hole in the metal backplate
+col_reach = 17.5;      // Extension distance to reach the stove peg
 
 // --- D-Shaft Socket ---
 d_dia = 6.2;         // Diameter of the stove's D-shaft
